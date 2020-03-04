@@ -115,7 +115,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Align Turret.vi" Type="VI" URL="../Align Turret.vi"/>
 			<Item Name="Manual Turret.vi" Type="VI" URL="../Manual Turret.vi"/>
 			<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
-			<Item Name="Lights.vi" Type="VI" URL="../../../../../Desktop/Lights.vi"/>
+			<Item Name="Lights.vi" Type="VI" URL="/Desktop/Lights.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
